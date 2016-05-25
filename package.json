@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kratiahuja/ember-fast-load-initializer"
+    "url": "git+https://github.com/kratiahuja/ember-fast-load-initializers"
   },
   "author": "Krati Ahuja<kratiahuja@gmail.com>",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "ember-addon"
   ],
   "bugs": {
-    "url": "https://github.com/kratiahuja/ember-fast-load-initializer/issues"
+    "url": "https://github.com/kratiahuja/ember-fast-load-initializers/issues"
   },
-  "homepage": "https://github.com/kratiahuja/ember-fast-load-initializer#readme"
+  "homepage": "https://github.com/kratiahuja/ember-fast-load-initializers#readme"
 }

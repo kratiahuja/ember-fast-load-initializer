@@ -1,4 +1,4 @@
-# Ember-fast-load-initializer
+# Ember-fast-load-initializers
 
 This addon is a fork of [ember-load-initializers](https://github.com/ember-cli/ember-load-initializers) with running faster than that.
 

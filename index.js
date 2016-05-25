@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-fast-load-initializer'
+  name: 'ember-fast-load-initializers'
 };
