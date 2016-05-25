@@ -1,6 +1,14 @@
 # Ember-fast-load-initializer
 
-This README outlines the details of collaborating on this Ember addon.
+This addon is a fork of [ember-load-initializers](https://github.com/ember-cli/ember-load-initializers) with running faster than that.
+
+This addon primarily assumes the requirejs contains a list of all AMD modules that are initializers or instance initializers.
+Thereby, it does not walk through all your AMD modules to figure this out at runtime.
+
+## Dependencies
+This addon *should not* be used as a standalone replacement for `ember-load-initializers`. This addon should only be used with the following addons:
+* [ember-cli-lazy-code](https://github.com/chadhietala/ember-cli-lazy-code) : v0.0.2+
+* [ember-cli-string-module-loader](https://github.com/kratiahuja/ember-cli-string-module-loader) : v0.0.3+
 
 ## Installation
 
